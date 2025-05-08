@@ -217,7 +217,7 @@
           <mxGeometry x="-2515" y="27" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-57" value="&lt;span style=&quot;color: rgb(36, 44, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;接收响应页面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2344" y="-73" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2313" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-58" value="&lt;span style=&quot;color: rgb(36, 44, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;数据清洗&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2172" y="40" width="120" height="60" as="geometry" />
@@ -262,6 +262,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2379" y="-98" as="sourcePoint" />
             <mxPoint x="-2329" y="-148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2340" y="-137" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
