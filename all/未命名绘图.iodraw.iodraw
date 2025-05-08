@@ -208,7 +208,7 @@
           <mxGeometry x="-2886.5" y="-63" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-53" value="&lt;span style=&quot;color: rgb(36, 44, 25); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;是否需要生成请求头？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2686" y="-49" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2702" y="-67" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2596" y="-135" width="120" height="60" as="geometry" />
