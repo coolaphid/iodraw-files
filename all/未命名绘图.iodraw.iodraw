@@ -97,19 +97,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-27" value="用户输入URL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2559" y="27" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2548" y="27" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-28" value="爬虫子系统接受请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2372" y="17" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-29" value="爬取目标网站页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2156" y="-54" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2192" y="-54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-30" value="解析页面数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1975" y="-54" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2008" y="-54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-31" value="存储数据到MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1803" y="-47" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1843" y="-54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-32" value="解析后数据展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1621" y="-47" width="120" height="60" as="geometry" />
