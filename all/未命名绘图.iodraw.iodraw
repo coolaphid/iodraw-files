@@ -100,7 +100,7 @@
           <mxGeometry x="-2548" y="27" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-28" value="爬虫子系统接受请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2372" y="17" width="133" height="80" as="geometry" />
+          <mxGeometry x="-2390" y="17" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-29" value="爬取目标网站页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2192" y="-54" width="120" height="60" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="-1506" y="4" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2492" y="284" width="100" height="60" as="geometry" />
+          <mxGeometry x="-2668" y="27" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
