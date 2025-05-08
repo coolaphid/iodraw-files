@@ -115,10 +115,10 @@
           <mxGeometry x="-1700" y="-54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-33" value="查询MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1989" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1869" y="59" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="294Asc5NUojV5uxEIKAG-34" value="获取并展示结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1765" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1700" y="57" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
