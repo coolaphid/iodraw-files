@@ -338,7 +338,7 @@
         <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-6" value="&lt;h4 style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: var(--md-box-samantha-h4-line-height); margin-top: var(--md-box-samantha-h4-margin-top); font-size: 16px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; margin-bottom: var(--md-box-samantha-h4-margin-bottom) !important; padding-bottom: 0px !important;&quot; class=&quot;header-jfw95c auto-hide-last-sibling-br&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据分析请求&lt;/span&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2349" y="669" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-7" value="&lt;h4 style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: var(--md-box-samantha-h4-line-height); margin-top: var(--md-box-samantha-h4-margin-top); font-size: 16px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; margin-bottom: var(--md-box-samantha-h4-margin-bottom) !important; padding-bottom: 0px !important;&quot; class=&quot;header-jfw95c auto-hide-last-sibling-br&quot;&gt;个人信息管理&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-7" value="&lt;h4 style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: var(--md-box-samantha-h4-line-height); margin-top: var(--md-box-samantha-h4-margin-top); font-size: 16px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; margin-bottom: var(--md-box-samantha-h4-margin-bottom) !important; padding-bottom: 0px !important;&quot; class=&quot;header-jfw95c auto-hide-last-sibling-br&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;个人信息管理&lt;/span&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2347" y="765" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gx4eZ3ebgzqm8Tcvh9ea-0" target="Gx4eZ3ebgzqm8Tcvh9ea-4">
@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-12" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2667" y="1284" width="30" height="60" as="geometry" />
+          <mxGeometry x="-2659" y="1266" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-13" value="&lt;h4 style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: var(--md-box-samantha-h4-line-height); margin-top: var(--md-box-samantha-h4-margin-top); font-size: 16px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; margin-bottom: var(--md-box-samantha-h4-margin-bottom) !important; padding-bottom: 0px !important;&quot; class=&quot;header-jfw95c auto-hide-last-sibling-br&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;用户管理&lt;/span&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2370" y="1153" width="120" height="80" as="geometry" />
@@ -393,12 +393,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2368" y="1236" as="sourcePoint" />
             <mxPoint x="-2318" y="1186" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gx4eZ3ebgzqm8Tcvh9ea-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2368" y="1236" as="sourcePoint" />
-            <mxPoint x="-2368" y="1476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
