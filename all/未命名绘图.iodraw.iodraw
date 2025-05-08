@@ -431,10 +431,10 @@
             <mxPoint x="-2654" y="1291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gx4eZ3ebgzqm8Tcvh9ea-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gx4eZ3ebgzqm8Tcvh9ea-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2531" y="1436" as="sourcePoint" />
-            <mxPoint x="-2481" y="1386" as="targetPoint" />
+            <mxPoint x="-2428" y="1285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
