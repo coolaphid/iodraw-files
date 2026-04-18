@@ -10,8 +10,8 @@
             <mxPoint x="-310" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1_x9IwghmpXvPPTg4DD7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="390" width="70" height="60" as="geometry" />
+        <mxCell id="1_x9IwghmpXvPPTg4DD7-2" value="借书日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="380" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
