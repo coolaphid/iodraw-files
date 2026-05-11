@@ -109,13 +109,13 @@
         <mxCell id="QLY0I_aS3cfsHCHeB_9t-31" value="借阅服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-870" y="330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QLY0I_aS3cfsHCHeB_9t-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QLY0I_aS3cfsHCHeB_9t-14">
+        <mxCell id="QLY0I_aS3cfsHCHeB_9t-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QLY0I_aS3cfsHCHeB_9t-14" target="BmpRQ4RQcgv1rlwGQzEu-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-810" y="450" as="sourcePoint" />
             <mxPoint x="-800" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QLY0I_aS3cfsHCHeB_9t-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmpRQ4RQcgv1rlwGQzEu-26" target="BmpRQ4RQcgv1rlwGQzEu-1">
+        <mxCell id="QLY0I_aS3cfsHCHeB_9t-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmpRQ4RQcgv1rlwGQzEu-26" target="BmpRQ4RQcgv1rlwGQzEu-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-810" y="450" as="sourcePoint" />
             <mxPoint x="-760" y="400" as="targetPoint" />
