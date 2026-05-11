@@ -67,18 +67,6 @@
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-21" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="442.5" width="120" height="217.5" as="geometry" />
-        </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-23" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="485" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-24" value="个人信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="545" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-25" value="通知公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="605" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="437.5" width="120" height="222.5" as="geometry" />
         </mxCell>
@@ -90,9 +78,6 @@
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-29" value="问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="600" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-30" value="基础访问需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-31" value="图书服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="450" width="80" height="30" as="geometry" />
@@ -108,16 +93,6 @@
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-35" value="借阅服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-550" y="450" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0EoG0RrVV8_n6J0RbwA-22" target="v0EoG0RrVV8_n6J0RbwA-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-490" y="570" as="sourcePoint" />
-            <mxPoint x="-480" y="375" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-790" y="420" />
-              <mxPoint x="-440" y="420" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v0EoG0RrVV8_n6J0RbwA-4" target="v0EoG0RrVV8_n6J0RbwA-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
