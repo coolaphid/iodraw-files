@@ -83,7 +83,7 @@
             <mxPoint x="-90" y="440" as="sourcePoint" />
             <mxPoint x="-440" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-150" y="420" />
+              <mxPoint x="-160" y="420" />
               <mxPoint x="-440" y="420" />
             </Array>
           </mxGeometry>
@@ -150,6 +150,12 @@
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-62" value="智能与适老需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-205" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="630" as="sourcePoint" />
+            <mxPoint x="-440" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
