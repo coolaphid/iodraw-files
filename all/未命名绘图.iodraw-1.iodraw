@@ -11,22 +11,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="460" width="120" height="245" as="geometry" />
+          <mxGeometry x="-640" y="460" width="120" height="245" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-5" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-9" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="510" width="80" height="30" as="geometry" />
+          <mxGeometry x="-620" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-10" value="图书详情查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="-620" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-11" value="馆藏位置查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="-620" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-12" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="655" width="80" height="30" as="geometry" />
+          <mxGeometry x="-620" y="655" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-13" value="个性化推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="490" width="80" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="-480" y="685" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-31" value="图书服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="-620" y="470" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-34" value="智能与适老需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-485" y="460" width="90" height="30" as="geometry" />
@@ -54,7 +54,7 @@
             <mxPoint x="-490" y="570" as="sourcePoint" />
             <mxPoint x="-440" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-600" y="420" />
+              <mxPoint x="-580" y="420" />
               <mxPoint x="-440" y="420" />
             </Array>
           </mxGeometry>
@@ -73,7 +73,7 @@
             <mxPoint x="-320" y="440" as="sourcePoint" />
             <mxPoint x="-440" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320" y="420" />
+              <mxPoint x="-300" y="420" />
               <mxPoint x="-440" y="420" />
             </Array>
           </mxGeometry>
