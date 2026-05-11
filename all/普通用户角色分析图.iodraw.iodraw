@@ -34,7 +34,7 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-10" value="积分任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="580" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P01xoLOtmPeSU8BQnN_D-11" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-11" value="提交图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="370" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
