@@ -40,7 +40,7 @@
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-12" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="515" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-20" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-20" value="个性化推荐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="357.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-21" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
