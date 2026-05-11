@@ -10,9 +10,6 @@
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="315" width="120" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="350" width="120" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-1" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="240" width="80" height="30" as="geometry" />
         </mxCell>
@@ -36,15 +33,6 @@
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-12" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="515" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-13" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="360" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-14" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="420" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-15" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-20" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-450" y="320" width="80" height="30" as="geometry" />
