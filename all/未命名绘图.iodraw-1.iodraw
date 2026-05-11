@@ -52,7 +52,7 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="550" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-18" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
