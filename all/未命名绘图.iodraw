@@ -28,7 +28,7 @@
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-9" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-10" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-10" value="图书详情查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-11" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
