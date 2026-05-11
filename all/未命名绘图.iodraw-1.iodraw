@@ -61,6 +61,9 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-23" value="业务运营功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="160" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-24" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
