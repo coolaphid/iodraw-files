@@ -46,7 +46,7 @@
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-14" value="查询图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLjVJKINgr0A-2YCZMVQ-15" value="浏览首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-15" value="图书分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-16" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
