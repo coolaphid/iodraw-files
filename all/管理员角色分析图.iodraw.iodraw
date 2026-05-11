@@ -52,7 +52,7 @@
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-16" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLjVJKINgr0A-2YCZMVQ-17" value="收藏图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-17" value="通知公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="600" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-18" value="阅读打卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
