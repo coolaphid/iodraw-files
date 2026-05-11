@@ -54,7 +54,7 @@
             <mxPoint x="-490" y="570" as="sourcePoint" />
             <mxPoint x="-440" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-650" y="420" />
+              <mxPoint x="-600" y="420" />
               <mxPoint x="-440" y="420" />
             </Array>
           </mxGeometry>
@@ -97,6 +97,27 @@
               <mxPoint x="-440" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0EoG0RrVV8_n6J0RbwA-43" target="v0EoG0RrVV8_n6J0RbwA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="460" width="120" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-44" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-45" value="图书详情查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-46" value="馆藏位置查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-47" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-48" value="图书服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="470" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
