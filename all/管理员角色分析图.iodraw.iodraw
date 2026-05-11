@@ -61,7 +61,7 @@
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-19" value="积分任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="720" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rLjVJKINgr0A-2YCZMVQ-20" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-20" value="基础数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rLjVJKINgr0A-2YCZMVQ-12" target="rLjVJKINgr0A-2YCZMVQ-11">
@@ -70,7 +70,7 @@
             <mxPoint x="920" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLjVJKINgr0A-2YCZMVQ-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rLjVJKINgr0A-2YCZMVQ-1" target="rLjVJKINgr0A-2YCZMVQ-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="630" as="sourcePoint" />
             <mxPoint x="690" y="580" as="targetPoint" />
