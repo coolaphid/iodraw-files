@@ -76,36 +76,6 @@
             <mxPoint x="870" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="130" height="510" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-2" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-3" value="归还状态维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-4" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="300" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-5" value="借阅记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-6" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="480" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-7" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="540" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-8" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="600" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-9" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6ke_Y5iPbbajIPVDaAu-10" value="业务运营功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="210" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
