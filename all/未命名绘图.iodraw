@@ -49,10 +49,10 @@
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-22" value="农技问题咨询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="457.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-23" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-23" value="大字模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="507.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-24" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-24" value="页面文本朗读" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="552.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QLY0I_aS3cfsHCHeB_9t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
