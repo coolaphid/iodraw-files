@@ -25,7 +25,7 @@
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-7" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-870" y="480" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-9" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-9" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-10" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -92,7 +92,7 @@
           <mxGeometry x="-1150" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QLY0I_aS3cfsHCHeB_9t-26" value="图书服务需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1010" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QLY0I_aS3cfsHCHeB_9t-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-860" y="330" width="60" height="30" as="geometry" />
