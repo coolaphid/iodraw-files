@@ -16,7 +16,7 @@
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v0EoG0RrVV8_n6J0RbwA-9" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v0EoG0RrVV8_n6J0RbwA-9" value="借阅记录查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-10" value="图书详情查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
