@@ -34,6 +34,42 @@
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-10" value="业务运营功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="875" y="300" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="120" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-12" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="535" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-13" value="查看详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-14" value="查询图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-15" value="浏览首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-16" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-17" value="收藏图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-18" value="阅读打卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-19" value="积分任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-20" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rLjVJKINgr0A-2YCZMVQ-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rLjVJKINgr0A-2YCZMVQ-12" target="rLjVJKINgr0A-2YCZMVQ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="530" as="sourcePoint" />
+            <mxPoint x="920" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
