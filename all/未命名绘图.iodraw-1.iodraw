@@ -40,7 +40,7 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-12" value="归还状态维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P01xoLOtmPeSU8BQnN_D-13" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-13" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-14" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
