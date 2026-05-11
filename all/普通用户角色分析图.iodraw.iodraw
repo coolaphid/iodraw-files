@@ -49,10 +49,10 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="430" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="使用AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="550" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-18" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
