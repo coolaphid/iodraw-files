@@ -56,10 +56,10 @@
           <mxGeometry x="-600" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-20" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="-480" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-21" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="340" width="80" height="30" as="geometry" />
+          <mxGeometry x="-480" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-22" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="410" width="80" height="30" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="BmpRQ4RQcgv1rlwGQzEu-24" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmpRQ4RQcgv1rlwGQzEu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
