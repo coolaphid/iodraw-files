@@ -1,38 +1,38 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="VyibsXLrtEPx6kiO3a5I">
-    <mxGraphModel dx="298" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="130" height="510" as="geometry" />
+          <mxGeometry x="850" y="300" width="130" height="510" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-2" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-3" value="归还状态维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="450" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-4" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-5" value="借阅记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-6" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-7" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="630" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-8" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-9" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="560" width="110" height="40" as="geometry" />
+          <mxGeometry x="860" y="750" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLjVJKINgr0A-2YCZMVQ-10" value="业务运营功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="110" width="80" height="30" as="geometry" />
+          <mxGeometry x="875" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
