@@ -17,7 +17,7 @@
           <mxGeometry x="810" y="300" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="80" height="220" as="geometry" />
+          <mxGeometry x="700" y="300" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="80" height="220" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="815" y="410" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-12" value="图书借阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="330" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="330" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-13" value="借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="370" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="370" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-14" value="归还提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="410" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-15" value="归还状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="450" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-16" value="图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="330" width="60" height="20" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="610" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-36" value="借阅服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="700" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-37" value="阅读激励模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="300" width="80" height="30" as="geometry" />
