@@ -103,8 +103,8 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-27" value="数据与服务环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="560" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="mkASo92kD25wr_EfAKKP-30" value="系统开发与运行环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
