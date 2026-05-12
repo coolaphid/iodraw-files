@@ -43,8 +43,8 @@
         <mxCell id="E9_tPaONSmwHhsRV171b-16" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="460" width="60" height="30" as="geometry" />
+        <mxCell id="E9_tPaONSmwHhsRV171b-17" value="敏感词过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-18" value="MyBatis&lt;div&gt;MyBatis Plus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="80" height="30" as="geometry" />
