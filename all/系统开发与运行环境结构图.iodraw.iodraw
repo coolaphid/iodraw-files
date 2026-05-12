@@ -7,13 +7,13 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-1" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-2" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-2" value="Vite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-3" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-4" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-4" value="Echarts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-5" value="VSCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
