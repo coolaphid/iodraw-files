@@ -35,7 +35,7 @@
           <mxGeometry x="-483" y="557" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-15" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-483" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="-480" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-16" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-483" y="658" width="80" height="30" as="geometry" />
