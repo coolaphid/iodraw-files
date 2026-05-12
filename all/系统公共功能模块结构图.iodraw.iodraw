@@ -61,7 +61,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-19" value="AI参数配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="410" width="77.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-20" value="AI使用记录查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-20" value="推荐权重配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="450" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-21" value="AI会话内容查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
