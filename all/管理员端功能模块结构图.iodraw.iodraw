@@ -145,8 +145,8 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-48" value="温柔超期规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="490" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-50" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="450" width="70" height="20" as="geometry" />
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-50" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-51" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="490" width="70" height="20" as="geometry" />
