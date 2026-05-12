@@ -34,10 +34,10 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-10" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="450" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-11" value="借阅记录查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-11" value="系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="370" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-12" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-12" value="新书通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-13" value="计划归还日期修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
