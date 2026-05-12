@@ -97,6 +97,9 @@
         <mxCell id="_arHCk7BnjvpyHQn77f_-30" value="核心业务与图书书籍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.5" y="270" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_arHCk7BnjvpyHQn77f_-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
