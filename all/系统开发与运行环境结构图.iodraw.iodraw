@@ -23,7 +23,7 @@
           <mxGeometry x="900" y="410" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="490" width="70" height="20" as="geometry" />
+          <mxGeometry x="705" y="490" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-8" value="MyBatis/MyBatis-Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="490" width="130" height="20" as="geometry" />
@@ -37,10 +37,10 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-11" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-1" target="mkASo92kD25wr_EfAKKP-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="510" as="sourcePoint" />
-            <mxPoint x="880" y="460" as="targetPoint" />
+            <mxPoint x="630" y="450" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
