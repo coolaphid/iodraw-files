@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E9_tPaONSmwHhsRV171b-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="620" width="410" height="60" as="geometry" />
+          <mxGeometry x="610" y="520" width="410" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="200" height="80" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="930" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-23" value="Redis缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-24" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="530" width="80" height="30" as="geometry" />
