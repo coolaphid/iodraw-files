@@ -184,11 +184,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=-0.019;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="E9_tPaONSmwHhsRV171b-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="510" as="sourcePoint" />
-            <mxPoint x="963.28" y="529.4300000000001" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="E9_tPaONSmwHhsRV171b-49" value="文件上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="530" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
