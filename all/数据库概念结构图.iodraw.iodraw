@@ -110,7 +110,7 @@
           <mxGeometry x="630" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-30" value="创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="735" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-1" target="IyOeb_PYbd7XFjCcdSuW-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-34" value="借阅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-13" target="IyOeb_PYbd7XFjCcdSuW-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
