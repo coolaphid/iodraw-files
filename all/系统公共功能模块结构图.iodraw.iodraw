@@ -52,7 +52,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-16" value="反馈内容过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="825" y="410" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-17" value="书屋信息配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-17" value="缺书登记过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="825" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-18" value="推荐算法权重配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
