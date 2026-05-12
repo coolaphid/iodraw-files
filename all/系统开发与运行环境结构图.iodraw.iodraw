@@ -115,9 +115,9 @@
           <mxGeometry x="990" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ltJG049ugErKX5OsKRv-1" value="用户/管理员&lt;div&gt;浏览器访问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="311" width="90" height="40" as="geometry" />
+          <mxGeometry x="790" y="312" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5ltJG049ugErKX5OsKRv-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mkASo92kD25wr_EfAKKP-29">
+        <mxCell id="5ltJG049ugErKX5OsKRv-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ltJG049ugErKX5OsKRv-1" target="mkASo92kD25wr_EfAKKP-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="833" y="358" as="sourcePoint" />
             <mxPoint x="792" y="435" as="targetPoint" />
