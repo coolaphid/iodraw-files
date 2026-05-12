@@ -10,7 +10,7 @@
         <mxCell id="E9_tPaONSmwHhsRV171b-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E9_tPaONSmwHhsRV171b-5" value="VUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,7 +68,10 @@
           <mxGeometry x="655" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9_tPaONSmwHhsRV171b-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
