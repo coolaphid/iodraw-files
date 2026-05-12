@@ -91,8 +91,14 @@
         <mxCell id="1G6n4sW7idu2wzOStgO6-33" value="借阅服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-34" value="基础访问模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1G6n4sW7idu2wzOStgO6-34" value="阅读激励模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1G6n4sW7idu2wzOStgO6-35" value="乡村互动模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1G6n4sW7idu2wzOStgO6-36" value="基础访问模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
