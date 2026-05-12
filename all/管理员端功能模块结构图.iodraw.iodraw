@@ -97,7 +97,7 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-37" value="乡村服务管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-38" value="乡村互动模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-38" value="综合配置管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -149,7 +149,7 @@
           <mxGeometry x="800" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-51" value="积分任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="490" width="70" height="20" as="geometry" />
+          <mxGeometry x="800" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-52" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="450" width="70" height="20" as="geometry" />
