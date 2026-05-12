@@ -172,8 +172,8 @@
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-51" value="核心借阅业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="995" y="510" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="400" width="60" height="30" as="geometry" />
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-53" value="乡村服务业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="275" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
