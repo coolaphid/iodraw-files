@@ -5,7 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_arHCk7BnjvpyHQn77f_-2" value="核心业务表uSer(用户表]&#xa;bookdist(图书信息表)&#xa;pook_item(地副本表)&#xa;oans(借阅记录表)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="830" y="350" width="130" height="150" as="geometry" />
+          <mxGeometry x="440" y="240" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_arHCk7BnjvpyHQn77f_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="270" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_arHCk7BnjvpyHQn77f_-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
