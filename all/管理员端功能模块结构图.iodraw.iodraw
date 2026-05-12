@@ -47,10 +47,10 @@
           <mxGeometry x="700" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-16" value="DeepSeek Key配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="935" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-17" value="敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="925" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="930" y="370" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-18" value="书屋信息配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="410" width="80" height="20" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1040" y="410" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-22" value="老人找书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="450" width="60" height="20" as="geometry" />
+          <mxGeometry x="1055" y="450" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-23" value="大字模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1165" y="330" width="60" height="20" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="800" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-38" value="综合配置管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="915" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="推荐与智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="300" width="110" height="30" as="geometry" />
