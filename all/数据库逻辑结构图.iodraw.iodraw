@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="314.5" width="210" height="100" as="geometry" />
+          <mxGeometry x="910" y="320" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-10" value="&lt;div&gt;通知与乡村服务表&lt;/div&gt;&lt;div&gt;notice(通知公告表)&lt;/div&gt;&lt;div&gt;user_message(用户消息表)&lt;/div&gt;&lt;div&gt;book_donation (图书型表)&lt;/div&gt;&lt;div&gt;book_wish(缺书登记表)&lt;/div&gt;&lt;div&gt;user_feedback(用户反馈表)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="314.5" width="210" height="99.43" as="geometry" />
+          <mxGeometry x="910" y="320" width="210" height="99.43" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_arHCk7BnjvpyHQn77f_-9" target="_arHCk7BnjvpyHQn77f_-9">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="645" y="507.16" width="210" height="115" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-17" value="&lt;div&gt;系统配置与日志表&lt;/div&gt;&lt;div&gt;system_config(系统配置表)&lt;/div&gt;&lt;div&gt;sensitive_word(敏感表)&lt;/div&gt;&lt;div&gt;login_log(登录日志表)&lt;/div&gt;&lt;div&gt;operation_log (操作日志表)&lt;/div&gt;&lt;div&gt;error_log(异常日志表)&lt;/div&gt;&lt;div&gt;task_log(任务日志表)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="510.91" width="180" height="107.5" as="geometry" />
+          <mxGeometry x="660" y="514.6600000000001" width="180" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_arHCk7BnjvpyHQn77f_-16" target="_arHCk7BnjvpyHQn77f_-16">
           <mxGeometry relative="1" as="geometry" />
