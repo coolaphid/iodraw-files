@@ -14,13 +14,13 @@
           <mxGeometry x="660" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-4" value="Echarts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="840" y="410" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-5" value="VSCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="410" width="60" height="20" as="geometry" />
+          <mxGeometry x="580" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-6" value="Element Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="410" width="90" height="20" as="geometry" />
+          <mxGeometry x="910" y="410" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="490" width="70" height="20" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-10" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-11" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-11" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-1" target="mkASo92kD25wr_EfAKKP-7">
