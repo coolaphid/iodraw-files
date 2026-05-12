@@ -40,10 +40,10 @@
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-13" value="查看借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-13" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="350" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-14" value="借阅记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
