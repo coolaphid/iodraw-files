@@ -114,8 +114,8 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-30" value="系统开发与运行环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5ltJG049ugErKX5OsKRv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="5ltJG049ugErKX5OsKRv-1" value="用户/管理员&lt;div&gt;浏览器访问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="326" width="152" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
