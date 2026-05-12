@@ -29,10 +29,10 @@
           <mxGeometry x="795" y="490" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-9" value="JAVA 21" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="640" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-10" value="Maven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="490" width="40" height="20" as="geometry" />
+          <mxGeometry x="580" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-11" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="490" width="40" height="20" as="geometry" />
@@ -42,6 +42,9 @@
             <mxPoint x="630" y="450" as="sourcePoint" />
             <mxPoint x="770" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mkASo92kD25wr_EfAKKP-13" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="590" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
