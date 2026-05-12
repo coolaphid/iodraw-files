@@ -8,7 +8,7 @@
           <mxGeometry x="1150" y="300" width="95" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="300" width="105" height="220" as="geometry" />
+          <mxGeometry x="1020" y="300" width="110" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="300" width="100" height="220" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-18" value="书屋信息配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="410" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-19" value="个性化推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1037.5" y="330" width="70" height="20" as="geometry" />
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-19" value="推荐算法权重配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="330" width="77.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-20" value="AI图书问询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1037.5" y="370" width="70" height="20" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="910" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="推荐与智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="300" width="105" height="30" as="geometry" />
+          <mxGeometry x="1020" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-40" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="300" width="90" height="30" as="geometry" />
