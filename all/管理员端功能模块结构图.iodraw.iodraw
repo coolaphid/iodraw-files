@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="300" width="120" height="220" as="geometry" />
+          <mxGeometry x="1150" y="300" width="110" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="300" width="110" height="220" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry x="1040" y="450" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-23" value="数据大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="330" width="60" height="20" as="geometry" />
+          <mxGeometry x="1175" y="330" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-24" value="页面朗读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="370" width="60" height="20" as="geometry" />
+          <mxGeometry x="1180" y="370" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-25" value="简化提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1165" y="410" width="60" height="20" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="1030" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-40" value="数据分析与日志模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="300" width="110" height="30" as="geometry" />
+          <mxGeometry x="1150" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-8" target="Lwg8KdMi3v7-EQmtGQhF-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
