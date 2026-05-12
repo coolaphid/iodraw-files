@@ -94,11 +94,11 @@
             <mxPoint x="820" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_arHCk7BnjvpyHQn77f_-30" value="核心业务与图书书籍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_arHCk7BnjvpyHQn77f_-30" value="核心业务与图书数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.5" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_arHCk7BnjvpyHQn77f_-31" value="扩展服务于系统数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="635" width="110" height="30" as="geometry" />
+        <mxCell id="_arHCk7BnjvpyHQn77f_-31" value="扩展服务与系统数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="635" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
