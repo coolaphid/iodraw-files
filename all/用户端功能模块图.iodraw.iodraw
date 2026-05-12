@@ -79,7 +79,7 @@
         <mxCell id="1G6n4sW7idu2wzOStgO6-26" value="个人信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="310" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-27" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1G6n4sW7idu2wzOStgO6-27" value="系统公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
