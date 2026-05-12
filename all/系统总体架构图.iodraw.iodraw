@@ -28,8 +28,8 @@
         <mxCell id="E9_tPaONSmwHhsRV171b-10" value="VUE Router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="E9_tPaONSmwHhsRV171b-11" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="360" width="60" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="330" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-27" value="HTTP/JSON/SSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
