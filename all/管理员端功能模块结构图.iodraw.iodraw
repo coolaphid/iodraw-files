@@ -103,9 +103,6 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-33" value="系统公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="410" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-34" value="基础访问模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="300" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-35" value="图书服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="300" width="80" height="30" as="geometry" />
         </mxCell>
@@ -124,10 +121,10 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-40" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="300" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-8" target="Lwg8KdMi3v7-EQmtGQhF-34">
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="895" y="400" as="sourcePoint" />
-            <mxPoint x="945" y="350" as="targetPoint" />
+            <mxPoint x="634.9999999999998" y="299.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-8" target="Lwg8KdMi3v7-EQmtGQhF-35">
