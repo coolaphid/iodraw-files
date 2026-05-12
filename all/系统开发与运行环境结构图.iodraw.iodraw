@@ -53,7 +53,13 @@
           <mxGeometry x="700" y="570" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-16" value="DeepSeek API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="570" width="40" height="20" as="geometry" />
+          <mxGeometry x="800" y="570" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mkASo92kD25wr_EfAKKP-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="560" as="sourcePoint" />
+            <mxPoint x="880" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
