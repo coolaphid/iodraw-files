@@ -58,7 +58,7 @@
         <mxCell id="1G6n4sW7idu2wzOStgO6-19" value="简化提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="350" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-20" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1G6n4sW7idu2wzOStgO6-20" value="图书列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-21" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -80,7 +80,7 @@
           <mxGeometry x="370" y="310" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-27" value="系统公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="60" height="20" as="geometry" />
+          <mxGeometry x="370" y="350" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
