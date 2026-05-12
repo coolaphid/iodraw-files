@@ -22,8 +22,8 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-6" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="490" width="40" height="20" as="geometry" />
+        <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
