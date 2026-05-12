@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="08l9YM01L65Ff6igA9aT">
-    <mxGraphModel dx="989" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="895" y="319" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-10" value="&lt;div&gt;通知与乡村服务表&lt;/div&gt;&lt;div&gt;notice(通知公告表)&lt;/div&gt;&lt;div&gt;user_message(用户消息表)&lt;/div&gt;&lt;div&gt;book_donation (图书型表)&lt;/div&gt;&lt;div&gt;book_wish(缺书登记表)&lt;/div&gt;&lt;div&gt;user_feedback(用户反馈表)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="895" y="319" width="210" height="99.43" as="geometry" />
+          <mxGeometry x="895" y="319" width="210" height="98" as="geometry" />
         </mxCell>
         <mxCell id="_arHCk7BnjvpyHQn77f_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_arHCk7BnjvpyHQn77f_-9" target="_arHCk7BnjvpyHQn77f_-9">
           <mxGeometry relative="1" as="geometry" />
