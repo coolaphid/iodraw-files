@@ -134,7 +134,7 @@
           <mxGeometry x="-220" y="450" width="120" height="317" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-57" value="数据大屏查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-202" y="503" width="80" height="30" as="geometry" />
+          <mxGeometry x="-202" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-58" value="登录日志查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-202" y="560" width="80" height="30" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="-202" y="712" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-62" value="运营分析与&lt;div&gt;系统维护需求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-205" y="460" width="90" height="30" as="geometry" />
+          <mxGeometry x="-262" y="466" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0EoG0RrVV8_n6J0RbwA-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="v0EoG0RrVV8_n6J0RbwA-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
