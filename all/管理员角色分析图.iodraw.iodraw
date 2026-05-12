@@ -44,16 +44,16 @@
           <mxGeometry x="731" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-16" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="816" y="958" width="90" height="40" as="geometry" />
+          <mxGeometry x="830" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-17" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="816" y="1018" width="90" height="40" as="geometry" />
+          <mxGeometry x="933" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-18" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="806" y="1078" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-19" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="590" width="80" height="30" as="geometry" />
+          <mxGeometry x="1030" y="575" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-20" value="基础数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1023" y="431" width="80" height="30" as="geometry" />
