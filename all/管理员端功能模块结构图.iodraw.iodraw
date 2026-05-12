@@ -14,37 +14,37 @@
           <mxGeometry x="910" y="300" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="300" width="100" height="220" as="geometry" />
+          <mxGeometry x="800" y="300" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="300" width="100" height="220" as="geometry" />
+          <mxGeometry x="690" y="300" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="300" width="100" height="220" as="geometry" />
+          <mxGeometry x="580" y="300" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-8" value="管理员端功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="220" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-9" value="通知公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="330" width="80" height="20" as="geometry" />
+          <mxGeometry x="810" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-10" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="370" width="80" height="20" as="geometry" />
+          <mxGeometry x="810" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-11" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="410" width="80" height="20" as="geometry" />
+          <mxGeometry x="810" y="410" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-12" value="借阅记录查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="330" width="80" height="20" as="geometry" />
+          <mxGeometry x="700" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-13" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="370" width="80" height="20" as="geometry" />
+          <mxGeometry x="700" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-14" value="计划归还日期修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="405" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-15" value="归还状态维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="80" height="20" as="geometry" />
+          <mxGeometry x="700" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-16" value="图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="330" width="60" height="20" as="geometry" />
@@ -77,28 +77,28 @@
           <mxGeometry x="1165" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-26" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="330" width="60" height="20" as="geometry" />
+          <mxGeometry x="600" y="330" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-27" value="图书分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="370" width="80" height="20" as="geometry" />
+          <mxGeometry x="590" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-28" value="图书目录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="410" width="80" height="20" as="geometry" />
+          <mxGeometry x="590" y="410" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-29" value="馆藏副本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="450" width="80" height="20" as="geometry" />
+          <mxGeometry x="590" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-35" value="基础数据管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="580" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-36" value="借阅业务管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="690" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-37" value="乡村服务管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="800" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-38" value="综合配置管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="910" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1045" y="300" width="80" height="30" as="geometry" />
@@ -143,13 +143,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-48" value="温柔超期规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="490" width="80" height="20" as="geometry" />
+          <mxGeometry x="700" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-50" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="450" width="80" height="20" as="geometry" />
+          <mxGeometry x="810" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-51" value="积分任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="490" width="80" height="20" as="geometry" />
+          <mxGeometry x="810" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-52" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="450" width="70" height="20" as="geometry" />
