@@ -61,10 +61,10 @@
         <mxCell id="1G6n4sW7idu2wzOStgO6-20" value="图书列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-21" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1G6n4sW7idu2wzOStgO6-21" value="图书查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-22" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1G6n4sW7idu2wzOStgO6-22" value="图书详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-23" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
