@@ -58,7 +58,7 @@
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-18" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="710" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-19" value="借阅反馈功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-19" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-20" value="基础数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
