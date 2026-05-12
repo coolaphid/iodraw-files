@@ -88,7 +88,13 @@
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-26" value="反馈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.929;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-1" target="IyOeb_PYbd7XFjCcdSuW-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="440" as="sourcePoint" />
+            <mxPoint x="900" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="440" as="sourcePoint" />
             <mxPoint x="900" y="390" as="targetPoint" />
