@@ -142,9 +142,6 @@
             <mxPoint x="685" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-41" value="温柔超期规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="530" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-42" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="80" height="20" as="geometry" />
         </mxCell>
