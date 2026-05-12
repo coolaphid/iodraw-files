@@ -17,16 +17,16 @@
           <mxGeometry x="645" y="350" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-5" value="图书借阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="560" y="270" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-6" value="借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="60" height="20" as="geometry" />
+          <mxGeometry x="560" y="310" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-7" value="归还提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="350" width="60" height="20" as="geometry" />
+          <mxGeometry x="560" y="350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-8" value="归还状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="60" height="20" as="geometry" />
+          <mxGeometry x="560" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-9" value="图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="270" width="60" height="20" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="850" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-17" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="280" width="60" height="20" as="geometry" />
+          <mxGeometry x="950" y="270" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
