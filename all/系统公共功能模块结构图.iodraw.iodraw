@@ -166,7 +166,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-49" value="角色权限判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-50" value="图书目录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-50" value="未登录访问拦截" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-51" value="馆藏副本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
