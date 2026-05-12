@@ -20,7 +20,7 @@
           <mxGeometry x="910" y="350" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-6" value="通知公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="290" width="50" height="20" as="geometry" />
+          <mxGeometry x="910" y="280" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-7" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="500" width="50" height="20" as="geometry" />
@@ -49,7 +49,7 @@
             <mxPoint x="900" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-16" value="生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
