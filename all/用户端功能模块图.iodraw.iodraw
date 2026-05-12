@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1G6n4sW7idu2wzOStgO6-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="240" width="75" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="240" width="80" height="220" as="geometry" />
         </mxCell>
@@ -117,9 +120,6 @@
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-37" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="905" y="240" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="80" width="75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
