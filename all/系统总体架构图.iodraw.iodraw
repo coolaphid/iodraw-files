@@ -59,13 +59,13 @@
           <mxGeometry x="930" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="E9_tPaONSmwHhsRV171b-24" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-25" value="联网检索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="530" width="80" height="30" as="geometry" />
