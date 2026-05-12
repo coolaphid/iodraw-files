@@ -11,7 +11,7 @@
           <mxGeometry x="307" y="412" width="808" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="495" width="90" height="40" as="geometry" />
+          <mxGeometry x="630" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-4" value="馆藏副本管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="426" width="90" height="40" as="geometry" />
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-20" value="基础数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="431" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb9zKBi_7mr8VGiryE4v-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="570" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
