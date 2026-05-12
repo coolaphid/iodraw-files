@@ -37,7 +37,7 @@
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-11" value="提交图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="470" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-12" value="归还状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-13" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
