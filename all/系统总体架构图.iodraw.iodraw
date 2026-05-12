@@ -77,10 +77,10 @@
           <mxGeometry x="640" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-25" value="联网检索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-26" value="DeekSeek API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-27" value="HTTP/JSON/SSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="270" width="60" height="30" as="geometry" />
@@ -244,12 +244,6 @@
         <mxCell id="E9_tPaONSmwHhsRV171b-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E9_tPaONSmwHhsRV171b-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="520" as="sourcePoint" />
-            <mxPoint x="680" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E9_tPaONSmwHhsRV171b-20" target="E9_tPaONSmwHhsRV171b-69">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="490" as="sourcePoint" />
             <mxPoint x="680" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
