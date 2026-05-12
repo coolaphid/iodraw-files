@@ -250,6 +250,12 @@
             <mxPoint x="680" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E9_tPaONSmwHhsRV171b-126" value="客户访问层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9_tPaONSmwHhsRV171b-127" value="客户访问层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
