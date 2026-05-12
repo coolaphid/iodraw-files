@@ -82,7 +82,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-26" value="用户头像访问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="410" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-27" value="图书目录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-27" value="文件上传管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-28" value="馆藏副本管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
