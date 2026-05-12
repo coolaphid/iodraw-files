@@ -41,13 +41,13 @@
           <mxGeometry x="340" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="780" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="880" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="使用AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="980" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-18" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="490" width="110" height="40" as="geometry" />
