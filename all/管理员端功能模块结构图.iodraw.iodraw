@@ -100,7 +100,7 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-38" value="综合配置管理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-39" value="推荐与智能服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1045" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-40" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -151,9 +151,6 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-51" value="积分任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="490" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-52" target="Lwg8KdMi3v7-EQmtGQhF-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-52" value="借阅时间规则配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="450" width="100" height="20" as="geometry" />
         </mxCell>
@@ -162,9 +159,6 @@
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-54" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="490" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-57" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
