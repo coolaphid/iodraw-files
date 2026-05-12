@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1G6n4sW7idu2wzOStgO6-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="225" width="95" height="235" as="geometry" />
+          <mxGeometry x="905" y="240" width="95" height="220" as="geometry" />
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="240" width="85" height="220" as="geometry" />
@@ -123,6 +123,12 @@
         </mxCell>
         <mxCell id="1G6n4sW7idu2wzOStgO6-37" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="905" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1G6n4sW7idu2wzOStgO6-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="340" as="sourcePoint" />
+            <mxPoint x="720" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
