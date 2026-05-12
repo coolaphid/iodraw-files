@@ -166,8 +166,8 @@
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-46" value="智能服务业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="510" width="60" height="30" as="geometry" />
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-51" value="核心借阅业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="510" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
