@@ -73,8 +73,8 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-24" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1175" y="370" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-25" value="简化提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="410" width="60" height="20" as="geometry" />
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-25" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-26" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="330" width="60" height="20" as="geometry" />
