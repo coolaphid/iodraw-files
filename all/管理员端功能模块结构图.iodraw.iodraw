@@ -145,6 +145,9 @@
             <mxPoint x="785" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-48" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="580" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
