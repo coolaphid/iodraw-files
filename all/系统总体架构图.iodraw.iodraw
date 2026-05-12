@@ -259,8 +259,8 @@
         <mxCell id="E9_tPaONSmwHhsRV171b-129" value="后端服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="932.5" y="360" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-130" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="60" height="30" as="geometry" />
+        <mxCell id="E9_tPaONSmwHhsRV171b-130" value="外部智能服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
