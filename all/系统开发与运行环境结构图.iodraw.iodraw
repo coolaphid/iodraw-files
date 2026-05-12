@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mkASo92kD25wr_EfAKKP-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="530" height="60" as="geometry" />
+          <mxGeometry x="570" y="560" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="530" height="40" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="740" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-25" value="前端开发环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="400" width="80" height="30" as="geometry" />
+          <mxGeometry x="1020" y="415" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-26" value="后端开发环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="480" width="80" height="30" as="geometry" />
