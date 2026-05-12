@@ -23,7 +23,7 @@
           <mxGeometry x="910" y="280" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-7" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="500" width="50" height="20" as="geometry" />
+          <mxGeometry x="790" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-8" value="AI会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="50" height="20" as="geometry" />
@@ -106,11 +106,14 @@
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-30" value="创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.437;exitY=-0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-7">
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-1" target="IyOeb_PYbd7XFjCcdSuW-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="440" as="sourcePoint" />
-            <mxPoint x="900" y="390" as="targetPoint" />
+            <mxPoint x="830" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
