@@ -68,7 +68,7 @@
           <mxGeometry x="940" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-22" value="统一响应格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="1065" y="370" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-23" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="410" width="60" height="20" as="geometry" />
@@ -147,9 +147,6 @@
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-45" value="异常日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="490" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-46" value="日志导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="530" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="100" height="220" as="geometry" />
