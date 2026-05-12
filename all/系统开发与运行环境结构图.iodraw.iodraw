@@ -67,7 +67,13 @@
             <mxPoint x="880" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-7" target="mkASo92kD25wr_EfAKKP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="560" as="sourcePoint" />
+            <mxPoint x="880" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkASo92kD25wr_EfAKKP-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=-0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mkASo92kD25wr_EfAKKP-8" target="mkASo92kD25wr_EfAKKP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="560" as="sourcePoint" />
             <mxPoint x="880" y="510" as="targetPoint" />
