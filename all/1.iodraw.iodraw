@@ -55,7 +55,7 @@
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-17" value="AI与敏感词管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="650" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-18" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-18" value="数据大屏与日志查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-19" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
