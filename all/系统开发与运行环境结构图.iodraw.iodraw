@@ -91,6 +91,9 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-24" value="HTTP请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mkASo92kD25wr_EfAKKP-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
