@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-39" value="拥有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="1060" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IyOeb_PYbd7XFjCcdSuW-11" target="IyOeb_PYbd7XFjCcdSuW-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -160,8 +160,8 @@
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-44" value="系统维护业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="777.5" y="510" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="500" width="60" height="40" as="geometry" />
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-46" value="智能服务业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
