@@ -115,7 +115,7 @@
           <mxGeometry x="990" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ltJG049ugErKX5OsKRv-1" value="用户/管理员&lt;div&gt;浏览器访问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="326" width="152" height="32" as="geometry" />
+          <mxGeometry x="794" y="317" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
