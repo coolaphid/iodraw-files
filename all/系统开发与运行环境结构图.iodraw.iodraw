@@ -11,25 +11,25 @@
           <mxGeometry x="570" y="470" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="530" height="60" as="geometry" />
+          <mxGeometry x="570" y="380" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-1" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="720" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-2" value="Vite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="780" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-3" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="660" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-4" value="Echarts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="410" width="50" height="20" as="geometry" />
+          <mxGeometry x="840" y="400" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-5" value="VSCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="410" width="60" height="20" as="geometry" />
+          <mxGeometry x="580" y="400" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-6" value="Element Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="410" width="90" height="20" as="geometry" />
+          <mxGeometry x="910" y="400" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="490" width="70" height="20" as="geometry" />
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
