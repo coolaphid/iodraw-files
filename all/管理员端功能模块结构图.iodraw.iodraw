@@ -88,9 +88,6 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-29" value="馆藏位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="450" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-30" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-35" value="图书服务模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="300" width="80" height="30" as="geometry" />
         </mxCell>
@@ -146,7 +143,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-48" value="图书收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="580" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lwg8KdMi3v7-EQmtGQhF-50" value="积分排行榜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="630" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
