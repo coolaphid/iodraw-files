@@ -19,13 +19,13 @@
         <mxCell id="mkASo92kD25wr_EfAKKP-5" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-6" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="410" width="40" height="20" as="geometry" />
+        <mxCell id="mkASo92kD25wr_EfAKKP-6" value="Element Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="410" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-7" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkASo92kD25wr_EfAKKP-8" value="MyBatis/MyBatis_Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mkASo92kD25wr_EfAKKP-8" value="MyBatis/MyBatis-Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="490" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-9" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="590" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-11" value="Axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="490" width="40" height="20" as="geometry" />
+          <mxGeometry x="950" y="490" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
