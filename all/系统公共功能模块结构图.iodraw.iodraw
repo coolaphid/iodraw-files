@@ -64,7 +64,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-20" value="推荐权重配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="450" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-21" value="AI会话内容查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-21" value="时间规则配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-22" value="数据大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-33" value="缓存与配置模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-34" value="数据分析与日志模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_xyZXju-vN9DxjuC-CTe-34" value="异常处理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_xyZXju-vN9DxjuC-CTe-7">
