@@ -19,10 +19,10 @@
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-5" value="查询图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-6" value="浏览首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-6" value="图书分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ztsYcl-2Vq-MkpYAihvI-7" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ztsYcl-2Vq-MkpYAihvI-7" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztsYcl-2Vq-MkpYAihvI-8" value="收藏图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
