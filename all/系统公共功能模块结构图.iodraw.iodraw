@@ -35,13 +35,13 @@
           <mxGeometry x="710" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-11" value="系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="80" height="20" as="geometry" />
+          <mxGeometry x="600" y="370" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-12" value="新书通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="80" height="20" as="geometry" />
+          <mxGeometry x="605" y="410" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-13" value="借阅提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="450" width="70" height="20" as="geometry" />
+          <mxGeometry x="605" y="450" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-14" value="归还状态维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="80" height="20" as="geometry" />
