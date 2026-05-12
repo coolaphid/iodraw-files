@@ -26,7 +26,7 @@
           <mxGeometry x="790" y="500" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-8" value="AI会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="420" width="50" height="20" as="geometry" />
+          <mxGeometry x="680" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyOeb_PYbd7XFjCcdSuW-9" value="AI消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="420" width="50" height="20" as="geometry" />
@@ -100,8 +100,8 @@
             <mxPoint x="900" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IyOeb_PYbd7XFjCcdSuW-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="IyOeb_PYbd7XFjCcdSuW-29" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
