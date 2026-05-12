@@ -26,7 +26,7 @@
           <mxGeometry x="705" y="490" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-8" value="MyBatis/MyBatis-Plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="490" width="130" height="20" as="geometry" />
+          <mxGeometry x="870" y="490" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-9" value="JAVA 21" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="50" height="20" as="geometry" />
@@ -44,13 +44,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-13" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="570" width="50" height="20" as="geometry" />
+          <mxGeometry x="920" y="570" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-14" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mkASo92kD25wr_EfAKKP-15" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mkASo92kD25wr_EfAKKP-16" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
