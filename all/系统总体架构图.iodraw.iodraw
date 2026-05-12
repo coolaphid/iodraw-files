@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E9_tPaONSmwHhsRV171b-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="200" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="680" height="210" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
           <mxGeometry x="640" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-25" value="联网检索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="420" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E9_tPaONSmwHhsRV171b-26" value="DeekSeek API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="60" height="30" as="geometry" />
@@ -249,9 +252,6 @@
             <mxPoint x="750" y="520" as="sourcePoint" />
             <mxPoint x="680" y="530" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="E9_tPaONSmwHhsRV171b-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
