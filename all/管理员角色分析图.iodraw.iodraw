@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556" y="1177" width="838" height="60" as="geometry" />
+          <mxGeometry x="556" y="1177" width="907" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="1029" width="808" height="68" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="1183" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-18" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1549" y="928" width="80" height="30" as="geometry" />
+          <mxGeometry x="1378" y="1192" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-19" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1376" y="1048" width="80" height="30" as="geometry" />
