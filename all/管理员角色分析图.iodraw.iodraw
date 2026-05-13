@@ -97,10 +97,10 @@
         <mxCell id="e11D8LHQzMNC-qoAjzEq-8" value="浏览首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1077" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-9" value="积分任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-9" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1176" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-10" value="书屋信息配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-10" value="阅读打卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1279" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-11" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
