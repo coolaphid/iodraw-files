@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="652" y="1177" width="838" height="60" as="geometry" />
+          <mxGeometry x="556" y="1177" width="838" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="1029" width="808" height="68" as="geometry" />
@@ -104,25 +104,25 @@
           <mxGeometry x="1279" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-11" value="提交图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="976" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="880" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="873" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="777" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-13" value="查看借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="674" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="571" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="981" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1176" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="1080" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-17" value="使用AI助手" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="1187" width="90" height="40" as="geometry" />
+          <mxGeometry x="1183" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-18" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1549" y="928" width="80" height="30" as="geometry" />
@@ -136,14 +136,14 @@
             <mxPoint x="1031" y="1104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="e11D8LHQzMNC-qoAjzEq-3">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1021" y="1177" as="sourcePoint" />
-            <mxPoint x="1106" y="1137" as="targetPoint" />
+            <mxPoint x="925" y="1177" as="sourcePoint" />
+            <mxPoint x="925" y="1157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-22" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1531" y="1149" width="90" height="40" as="geometry" />
+          <mxGeometry x="1286" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
