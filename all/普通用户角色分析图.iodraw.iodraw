@@ -38,16 +38,16 @@
           <mxGeometry x="477" y="539" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="490" width="90" height="30" as="geometry" />
+          <mxGeometry x="626" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-13" value="查看借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="490" width="90" height="30" as="geometry" />
+          <mxGeometry x="514" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="539" width="60" height="30" as="geometry" />
+          <mxGeometry x="638" y="539" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="490" width="90" height="30" as="geometry" />
+          <mxGeometry x="735" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="490" width="90" height="30" as="geometry" />
