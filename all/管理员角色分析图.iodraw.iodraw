@@ -88,7 +88,7 @@
         <mxCell id="e11D8LHQzMNC-qoAjzEq-5" value="图书目录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-6" value="图书分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-6" value="收藏图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="1043" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-7" value="积分任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
