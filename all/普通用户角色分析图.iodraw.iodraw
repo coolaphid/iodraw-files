@@ -35,7 +35,7 @@
           <mxGeometry x="860" y="331.5" width="58" height="29" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-11" value="提交图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="516" y="537" width="90" height="30" as="geometry" />
+          <mxGeometry x="514" y="527" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="626" y="490" width="90" height="30" as="geometry" />
@@ -70,7 +70,7 @@
             <mxPoint x="810" y="394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0TKsd97hMyB3Hias0Kwl-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.536;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.487;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0TKsd97hMyB3Hias0Kwl-2" target="P01xoLOtmPeSU8BQnN_D-1" edge="1">
+        <mxCell id="0TKsd97hMyB3Hias0Kwl-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.536;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.496;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0TKsd97hMyB3Hias0Kwl-2" target="P01xoLOtmPeSU8BQnN_D-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="802" y="467" as="sourcePoint" />
             <mxPoint x="791" y="459" as="targetPoint" />
