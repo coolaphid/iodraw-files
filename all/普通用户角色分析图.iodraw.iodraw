@@ -35,7 +35,7 @@
           <mxGeometry x="860" y="331.5" width="58" height="29" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-11" value="提交图书捐赠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="537" width="90" height="30" as="geometry" />
+          <mxGeometry x="516" y="537" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="626" y="490" width="90" height="30" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="735" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="735" y="542" width="90" height="30" as="geometry" />
+          <mxGeometry x="735" y="539" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="使用AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="855" y="493" width="90" height="30" as="geometry" />
+          <mxGeometry x="855" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-18" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="539" width="110" height="30" as="geometry" />
