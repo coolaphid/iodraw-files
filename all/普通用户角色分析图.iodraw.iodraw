@@ -64,15 +64,15 @@
         <mxCell id="P01xoLOtmPeSU8BQnN_D-24" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0TKsd97hMyB3Hias0Kwl-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.518;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="P01xoLOtmPeSU8BQnN_D-1" edge="1">
+        <mxCell id="0TKsd97hMyB3Hias0Kwl-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.518;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="P01xoLOtmPeSU8BQnN_D-1" target="0TKsd97hMyB3Hias0Kwl-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="410" as="sourcePoint" />
-            <mxPoint x="781" y="379" as="targetPoint" />
+            <mxPoint x="790" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0TKsd97hMyB3Hias0Kwl-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.536;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.424;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0TKsd97hMyB3Hias0Kwl-2" target="P01xoLOtmPeSU8BQnN_D-1" edge="1">
+        <mxCell id="0TKsd97hMyB3Hias0Kwl-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.536;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="P01xoLOtmPeSU8BQnN_D-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="430" as="sourcePoint" />
+            <mxPoint x="790" y="468" as="sourcePoint" />
             <mxPoint x="791" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
