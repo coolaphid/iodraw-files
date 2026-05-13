@@ -106,10 +106,10 @@
         <mxCell id="e11D8LHQzMNC-qoAjzEq-11" value="图书捐赠审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="976" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-12" value="归还状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-12" value="查看系统公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="873" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-13" value="集体借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-13" value="查看借阅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
