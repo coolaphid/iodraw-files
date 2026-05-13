@@ -20,7 +20,7 @@
           <mxGeometry x="520" y="325" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-6" value="浏览首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="328" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-7" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="250" width="60" height="30" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="680" y="200" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-9" value="阅读打卡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="1010" y="325" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-10" value="积分任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="912" y="320" width="58" height="29" as="geometry" />
