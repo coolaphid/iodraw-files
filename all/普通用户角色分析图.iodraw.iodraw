@@ -8,7 +8,7 @@
           <mxGeometry x="491" y="480" width="588" height="93" as="geometry" />
         </mxCell>
         <mxCell id="0TKsd97hMyB3Hias0Kwl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="320" width="671" height="60" as="geometry" />
+          <mxGeometry x="440" y="326" width="671" height="54" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-1" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="749.5" y="412" width="61" height="38" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="974" y="511" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-24" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="341.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="1016" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0TKsd97hMyB3Hias0Kwl-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.518;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.508;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="P01xoLOtmPeSU8BQnN_D-1" target="0TKsd97hMyB3Hias0Kwl-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
