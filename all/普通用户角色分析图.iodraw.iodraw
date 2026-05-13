@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0TKsd97hMyB3Hias0Kwl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="459" y="480" width="652" height="102" as="geometry" />
+          <mxGeometry x="491" y="480" width="620" height="102" as="geometry" />
         </mxCell>
         <mxCell id="0TKsd97hMyB3Hias0Kwl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="320" width="671" height="60" as="geometry" />
@@ -44,19 +44,19 @@
           <mxGeometry x="514" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="638" y="539" width="60" height="30" as="geometry" />
+          <mxGeometry x="626" y="527" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-16" value="提交问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="735" y="539" width="90" height="30" as="geometry" />
+          <mxGeometry x="735" y="527" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-17" value="使用AI助手" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-18" value="大字和朗读辅助" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="855" y="539" width="110" height="30" as="geometry" />
+          <mxGeometry x="855" y="527" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P01xoLOtmPeSU8BQnN_D-23" value="借阅反馈功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="997" y="513" width="80" height="30" as="geometry" />
