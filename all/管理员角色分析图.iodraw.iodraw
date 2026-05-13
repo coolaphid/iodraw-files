@@ -127,7 +127,7 @@
         <mxCell id="e11D8LHQzMNC-qoAjzEq-18" value="业务运营管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1376" y="1192" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-19" value="基础数据管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-19" value="基础阅读功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1376" y="1048" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e11D8LHQzMNC-qoAjzEq-3" target="e11D8LHQzMNC-qoAjzEq-2">
