@@ -115,7 +115,7 @@
         <mxCell id="e11D8LHQzMNC-qoAjzEq-14" value="借阅图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="667" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e11D8LHQzMNC-qoAjzEq-15" value="缺书登记处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e11D8LHQzMNC-qoAjzEq-15" value="登记想要的书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1077" y="1187" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e11D8LHQzMNC-qoAjzEq-16" value="用户反馈处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
