@@ -369,16 +369,16 @@
           <mxGeometry x="-565" y="1130" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-83" value="农技问题咨询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-447.5" y="1137" width="80" height="30" as="geometry" />
+          <mxGeometry x="-460" y="1137" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-84" value="AI图书问询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1102" width="65" height="30" as="geometry" />
+          <mxGeometry x="-452.5" y="1100" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-85" value="个性化推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-452.5" y="1070" width="65" height="30" as="geometry" />
+          <mxGeometry x="-452.5" y="1062" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-86" value="大字模式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1172" width="65" height="30" as="geometry" />
+          <mxGeometry x="-452.5" y="1175" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-87" value="页面文本朗读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="1210" width="80" height="30" as="geometry" />
