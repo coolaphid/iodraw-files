@@ -165,7 +165,7 @@
           <mxGeometry x="-668" y="1047" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-3" value="图书服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-784" y="957" width="65" height="40" as="geometry" />
+          <mxGeometry x="-789" y="957" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-5" value="阅读激励" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-563" y="957" width="65" height="40" as="geometry" />
@@ -182,7 +182,7 @@
             <mxPoint x="-618" y="1017" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="oFb4BXdbtuUWiaoSgBiY-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-668" y="1067" as="sourcePoint" />
             <mxPoint x="-764" y="1067" as="targetPoint" />
@@ -218,7 +218,7 @@
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-20" value="图书收藏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-905" y="962" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFb4BXdbtuUWiaoSgBiY-3" target="oFb4BXdbtuUWiaoSgBiY-14">
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFb4BXdbtuUWiaoSgBiY-3" target="oFb4BXdbtuUWiaoSgBiY-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-761" y="968.77" as="sourcePoint" />
             <mxPoint x="-711" y="918.77" as="targetPoint" />
@@ -341,9 +341,6 @@
             <mxPoint x="-478" y="1147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-56" value="图书服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-828" y="1047" width="65" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-57" value="图书查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-910" y="1005" width="65" height="30" as="geometry" />
         </mxCell>
@@ -379,6 +376,15 @@
             <mxPoint x="-782" y="1273.77" as="sourcePoint" />
             <mxPoint x="-857.1950000000002" y="1322" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oFb4BXdbtuUWiaoSgBiY-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-668" y="1067" as="sourcePoint" />
+            <mxPoint x="-764" y="1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-56" value="图书服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-789" y="1042" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
