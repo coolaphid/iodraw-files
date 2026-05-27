@@ -227,7 +227,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hWRgIRDKhcWQaSmNblfS-9" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="800" width="65" height="40" as="geometry" />
+          <mxGeometry x="-1050" y="950" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWRgIRDKhcWQaSmNblfS-10" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="900" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWRgIRDKhcWQaSmNblfS-11" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="840" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
