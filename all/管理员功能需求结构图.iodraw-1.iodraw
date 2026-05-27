@@ -357,7 +357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-80" value="图书服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-789" y="1127" width="65" height="40" as="geometry" />
+          <mxGeometry x="-789" y="1135" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.985;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oFb4BXdbtuUWiaoSgBiY-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
