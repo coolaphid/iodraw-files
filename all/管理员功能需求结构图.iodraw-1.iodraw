@@ -234,19 +234,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-34" value="农技问题咨询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-445.5" y="1052" width="80" height="30" as="geometry" />
+          <mxGeometry x="-453" y="957" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-35" value="AI图书问询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="1017" width="65" height="30" as="geometry" />
+          <mxGeometry x="-445.5" y="922" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-36" value="个性化推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="982" width="65" height="30" as="geometry" />
+          <mxGeometry x="-445.5" y="887" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-37" value="大字模式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="1087" width="65" height="30" as="geometry" />
+          <mxGeometry x="-445.5" y="992" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-38" value="页面文本朗读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-445.5" y="1122" width="80" height="30" as="geometry" />
+          <mxGeometry x="-445.5" y="1030" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-42" value="图书捐赠" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-438" y="1157" width="65" height="30" as="geometry" />
@@ -265,7 +265,7 @@
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oFb4BXdbtuUWiaoSgBiY-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-498" y="1067" as="sourcePoint" />
+            <mxPoint x="-498" y="980" as="sourcePoint" />
             <mxPoint x="-518" y="1047" as="targetPoint" />
           </mxGeometry>
         </mxCell>
