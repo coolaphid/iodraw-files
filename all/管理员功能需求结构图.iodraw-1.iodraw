@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="I65hWyEkuTXTdMF_sS5g">
-    <mxGraphModel dx="4289" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4495" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
             <mxPoint x="-764" y="1067" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-56" value="图书服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-56" value="借阅管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-789" y="1047" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-72" value="图书查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
