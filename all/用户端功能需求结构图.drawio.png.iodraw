@@ -173,7 +173,7 @@
           <mxGeometry x="-830" y="1010" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-2" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="910" width="65" height="40" as="geometry" />
+          <mxGeometry x="-960" y="920" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-3" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="1020" width="65" height="40" as="geometry" />
@@ -182,13 +182,13 @@
           <mxGeometry x="-960" y="1110" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-5" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="910" width="65" height="40" as="geometry" />
+          <mxGeometry x="-730" y="920" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-6" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="1020" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-7" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-725" y="1110" width="65" height="40" as="geometry" />
+          <mxGeometry x="-730" y="1110" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
