@@ -187,7 +187,7 @@
         <mxCell id="_JDN4jxvzyfAWvMGck4s-6" value="智能适老" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-725" y="1010" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_JDN4jxvzyfAWvMGck4s-7" value="智能适老" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_JDN4jxvzyfAWvMGck4s-7" value="乡村互动" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-725" y="1110" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hWRgIRDKhcWQaSmNblfS-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.909;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_JDN4jxvzyfAWvMGck4s-2">
@@ -322,7 +322,7 @@
         <mxCell id="hWRgIRDKhcWQaSmNblfS-38" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="980" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hWRgIRDKhcWQaSmNblfS-39" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hWRgIRDKhcWQaSmNblfS-39" value="个性化推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="945" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hWRgIRDKhcWQaSmNblfS-40" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
