@@ -368,7 +368,7 @@
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-82" value="运营与维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-585" y="1130" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-83" value="农技问题咨询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-83" value="操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="1135" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-84" value="登录日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -377,7 +377,7 @@
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-85" value="数据大屏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-472.5" y="1066" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oFb4BXdbtuUWiaoSgBiY-86" value="大字模式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oFb4BXdbtuUWiaoSgBiY-86" value="异常日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-472.5" y="1173" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFb4BXdbtuUWiaoSgBiY-87" value="页面文本朗读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
