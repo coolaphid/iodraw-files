@@ -188,7 +188,7 @@
           <mxGeometry x="-725" y="1010" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JDN4jxvzyfAWvMGck4s-7" value="智能适老" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="1110" width="65" height="40" as="geometry" />
+          <mxGeometry x="-725" y="1110" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hWRgIRDKhcWQaSmNblfS-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.909;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_JDN4jxvzyfAWvMGck4s-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
