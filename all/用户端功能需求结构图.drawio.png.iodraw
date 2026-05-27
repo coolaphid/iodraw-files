@@ -256,21 +256,6 @@
         <mxCell id="hWRgIRDKhcWQaSmNblfS-19" value="基础访问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-985" y="1170" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hWRgIRDKhcWQaSmNblfS-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-930" y="920" as="sourcePoint" />
-            <mxPoint x="-770" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hWRgIRDKhcWQaSmNblfS-21" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="hWRgIRDKhcWQaSmNblfS-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hWRgIRDKhcWQaSmNblfS-22" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="hWRgIRDKhcWQaSmNblfS-20">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hWRgIRDKhcWQaSmNblfS-23" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="hWRgIRDKhcWQaSmNblfS-20">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
