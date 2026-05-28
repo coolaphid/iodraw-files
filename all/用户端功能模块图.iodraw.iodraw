@@ -124,26 +124,6 @@
         <mxCell id="1G6n4sW7idu2wzOStgO6-37" value="适老化辅助模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1G6n4sW7idu2wzOStgO6-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="180" as="sourcePoint" />
-            <mxPoint x="530" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="210" />
-              <mxPoint x="860" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1G6n4sW7idu2wzOStgO6-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1G6n4sW7idu2wzOStgO6-1" target="1G6n4sW7idu2wzOStgO6-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="110" as="sourcePoint" />
-            <mxPoint x="560" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="210" />
-              <mxPoint x="950" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
