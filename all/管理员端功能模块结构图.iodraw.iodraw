@@ -124,10 +124,13 @@
         <mxCell id="Lwg8KdMi3v7-EQmtGQhF-54" value="日志导出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1175" y="490" width="59" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RXABnVuGivFxwEZdvKu0-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RXABnVuGivFxwEZdvKu0-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.47;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Lwg8KdMi3v7-EQmtGQhF-35" target="Lwg8KdMi3v7-EQmtGQhF-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="829" y="418" as="sourcePoint" />
             <mxPoint x="879" y="368" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="905" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
