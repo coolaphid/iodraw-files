@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="KbQjlfAWBWvefZz5dC_q">
-    <mxGraphModel dx="819" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,16 +103,6 @@
         <mxCell id="_xyZXju-vN9DxjuC-CTe-34" value="异常处理模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="745" y="310" as="sourcePoint" />
-            <mxPoint x="520" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="300" />
-              <mxPoint x="530" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="795" y="280" as="sourcePoint" />
@@ -127,36 +117,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="795" y="280" as="sourcePoint" />
             <mxPoint x="740" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="795" y="280" as="sourcePoint" />
-            <mxPoint x="855" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="300" />
-              <mxPoint x="865" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-33" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="220" as="sourcePoint" />
-            <mxPoint x="975" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="300" />
-              <mxPoint x="985" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="945" y="210" as="sourcePoint" />
-            <mxPoint x="1095" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="300" />
-              <mxPoint x="1105" y="300" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-42" value="任务日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -182,16 +142,6 @@
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-52" value="身份认证与&lt;div&gt;权限控制模块&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="340" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_xyZXju-vN9DxjuC-CTe-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_xyZXju-vN9DxjuC-CTe-7" target="_xyZXju-vN9DxjuC-CTe-52" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="280" as="sourcePoint" />
-            <mxPoint x="780" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="300" />
-              <mxPoint x="420" y="300" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_xyZXju-vN9DxjuC-CTe-56" value="AI提问过滤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="825" y="490" width="80" height="20" as="geometry" />
